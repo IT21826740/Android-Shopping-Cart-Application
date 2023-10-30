@@ -1,6 +1,4 @@
-
-
-#**Android Shopping Cart Application**
+#Android Shopping Cart Application
 
 This repository contains the source code for an Android shopping cart application. The app allows users to add items to their shopping cart, view and manage their cart, and change the app's background color.
 
