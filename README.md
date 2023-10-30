@@ -35,3 +35,6 @@ This repository contains the source code for an Android shopping cart applicatio
 
 This Android shopping cart application serves as a useful reference for implementing RecyclerViews, fragment navigation, and data management in Android apps.
 
+( 2-YR 2-SEM MAD )
+
+
